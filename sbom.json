@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-04T16:43:03Z",
+  "generated": "2026-11-06T07:52:04Z",
   "image": "craft-anything",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.3.0",
+      "app_version": "0.4.0",
       "arch": "amd64",
-      "generated": "2026-11-04T16:42:13Z",
+      "generated": "2026-11-06T07:51:22Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
