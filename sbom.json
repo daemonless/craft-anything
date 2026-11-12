@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-09T23:17:27Z",
+  "generated": "2026-11-12T08:49:37Z",
   "image": "craft-anything",
   "tags": {
     "latest-amd64": {
-      "app_version": "0.6.0",
+      "app_version": "0.6.1",
       "arch": "amd64",
-      "generated": "2026-11-09T23:16:39Z",
+      "generated": "2026-11-12T08:48:59Z",
       "packages": {
         "dotnet": [],
         "freebsd": [
@@ -266,7 +266,7 @@
               "BSD2CLAUSE"
             ],
             "name": "nginx",
-            "version": "1.30.6_11,3"
+            "version": "1.30.6_13,3"
           },
           {
             "licenses": [
